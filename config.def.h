@@ -34,7 +34,7 @@ static unsigned int lines      = 0;
 static const char worddelimiters[] = " ";
 
 /* Size of the window border */
-static unsigned int border_width = 5;
+static unsigned int border_width = 2;
 /*
  * Xresources preferences to load at startup
  */
